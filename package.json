@@ -8,8 +8,6 @@
     "start": "vue-cli-service serve"
   },
   "dependencies": {
-    "@lljj/vue-json-schema-form": "^1.4.0",
-    "@roo/roo-vue": "^1.4.0",
     "@tailwindcss/postcss7-compat": "^2.1.2",
     "autoprefixer": "^9",
     "core-js": "^3.6.5",

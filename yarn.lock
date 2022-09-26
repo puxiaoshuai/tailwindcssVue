@@ -950,28 +950,6 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@lljj/vjsf-utils@1.3.0":
-  version "1.3.0"
-  resolved "http://r.npm.sankuai.com/@lljj/vjsf-utils/download/@lljj/vjsf-utils-1.3.0.tgz#866a11b85f1e57ddd04c8128cb91c52ed3843283"
-  integrity sha1-hmoRuF8eV93QTIEoy5HFLtOEMoM=
-  dependencies:
-    ajv "^6.10.2"
-
-"@lljj/vue-json-schema-form@^1.4.0":
-  version "1.4.0"
-  resolved "http://r.npm.sankuai.com/@lljj/vue-json-schema-form/download/@lljj/vue-json-schema-form-1.4.0.tgz#858f7430f4899a43abc0b001e72e16c8c37e0502"
-  integrity sha1-hY90MPSJmkOrwLAB5y4WyMN+BQI=
-  dependencies:
-    "@lljj/vjsf-utils" "1.3.0"
-    "@lljj/vue2-form-core" "1.4.0"
-
-"@lljj/vue2-form-core@1.4.0":
-  version "1.4.0"
-  resolved "http://r.npm.sankuai.com/@lljj/vue2-form-core/download/@lljj/vue2-form-core-1.4.0.tgz#610abe0a52577670fde07c52f7baf331d2da07ba"
-  integrity sha1-YQq+ClJXdnD94HxS97rzMdLaB7o=
-  dependencies:
-    "@lljj/vjsf-utils" "1.3.0"
-
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -1005,13 +983,6 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
-
-"@roo/roo-vue@^1.4.0":
-  version "1.4.0"
-  resolved "http://r.npm.sankuai.com/@roo/roo-vue/download/@roo/roo-vue-1.4.0.tgz#fe4e252e6548ac0bfab3253c623241231fb9edaf"
-  integrity sha1-/k4lLmVIrAv6syU8YjJBIx+57a8=
-  dependencies:
-    async-validator "1.6.8"
 
 "@soda/friendly-errors-webpack-plugin@^1.7.1":
   version "1.8.0"
@@ -1908,11 +1879,6 @@ async-limiter@~1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/async-limiter/-/async-limiter-1.0.1.tgz#dd379e94f0db8310b08291f9d64c3209766617fd"
   integrity sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ==
-
-async-validator@1.6.8:
-  version "1.6.8"
-  resolved "http://r.npm.sankuai.com/async-validator/download/async-validator-1.6.8.tgz#fbaaa9002b41066fdf3ba21d8a4ca8b1179ad36b"
-  integrity sha1-+6qpACtBBm/fO6IdikyosRea02s=
 
 async-validator@~1.8.1:
   version "1.8.5"
